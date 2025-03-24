@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/CMakeFiles/etl-populate"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/CMakeFiles/etl-populate.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/CMakeFiles/etl-populate-complete.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-build.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-configure.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-download.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-install.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-mkdir.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-patch.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-test.rule"
+		},
+		{
+			"file" : "F:/Ricsi/prog/cpp/polynomIntLib/build-release/_deps/etl-subbuild/etl-populate-prefix/src/etl-populate-stamp/etl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"etl-populate"
+		],
+		"name" : "etl-populate"
+	}
+}
